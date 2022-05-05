@@ -1,1 +1,2 @@
 # day10
+# notes
